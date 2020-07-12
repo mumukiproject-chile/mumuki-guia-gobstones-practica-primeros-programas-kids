@@ -1,0 +1,1 @@
+Ahora que ya sabemos comunicarnos con Mukinita para movernos por el tablero con `Mover`, o para poner y sacar bolitas con `Poner` y `Sacar`, combinemos todo esto para resolver nuevos desafíos. :grin:
