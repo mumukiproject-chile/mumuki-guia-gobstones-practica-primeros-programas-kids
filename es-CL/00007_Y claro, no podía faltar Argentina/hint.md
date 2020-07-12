@@ -1,0 +1,1 @@
+Siempre es de ayuda contar cuántas bolitas de cada color hay en el tablero esperado para saber cuántas veces usar el comando `Poner`.
