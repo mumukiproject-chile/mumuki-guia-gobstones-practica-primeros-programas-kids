@@ -1,0 +1,1 @@
+Nosotros entendemos la idea de reemplazar, pero Mukinita solo sabe `Poner` y `Sacar` bolitas del tablero. Pensá cómo combinar esos comandos para lograr lo que te pedimos. 
