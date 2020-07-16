@@ -2,4 +2,4 @@
 
 Ahora que sabemos dibujar líneas y darle vida al tablero, con nuestras habilidades de artistas y la ayuda de la programación armemos una escalera de piedras. :blush:
 
-> Empezando en el casillero iluminado, dibujá una escalera negra como la que ves en el tablero esperado.
+> Empezando en el casillero iluminado, dibuja una escalera negra como la que ves en el tablero esperado.
