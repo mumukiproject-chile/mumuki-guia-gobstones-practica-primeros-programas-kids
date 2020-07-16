@@ -4,6 +4,6 @@ Vamos a ensuciarnos un poco las manos, ¡haciendo arte! :art:
 
 ¿Arte? ¿Qué tiene que ver con la programación? Mucho, porque programar también es un arte, donde necesitamos creatividad para hacer que la máquina resuelva nuestros problemas. :ok_woman:
 
-Empecemos por lo más básico del arte: las líneas. :stuck_out_tongue_winking_eye: 
+Empecemos por lo más básico del arte: las líneas. :stuck_out_tongue_winking_eye:
 
-> Dibujá una línea `verde` de 4 casilleros, moviéndote hacia el `Este`. Poné solo una bolita verde en cada casillero. 
+> Dibuja una línea `verde` de 4 casilleros, moviéndote hacia el `Este`. Pon sólo una bolita verde en cada casillero. 

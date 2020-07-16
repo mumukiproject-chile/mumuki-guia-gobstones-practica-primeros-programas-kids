@@ -1,1 +1,1 @@
-Por si no te acordás, el programa anterior ponía una bolita roja :house:, luego se movía al este y ponía una negra. :dog:
+Por si no te acuerdas, el programa anterior ponía una bolita roja :house:, luego se movía al este y ponía una negra. :dog:

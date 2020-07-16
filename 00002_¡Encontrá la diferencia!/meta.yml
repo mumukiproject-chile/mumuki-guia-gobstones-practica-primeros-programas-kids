@@ -1,10 +1,10 @@
 ---
 locale: es
-tags: []
+tags: [ ]
 layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
 manual_evaluation: false
-choices: []
-name: "¡Encontrá la diferencia!"
+choices: [ ]
+name: "¡Encuentra la diferencia!"

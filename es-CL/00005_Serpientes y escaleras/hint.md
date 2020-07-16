@@ -1,1 +1,0 @@
-Asegúrate de que en cada casillero sólo `pongas` una bolita `negra`. Te puede ayudar contar cuántas bolitas hay en el tablero esperado, y cuántos comandos `Poner` usaste.

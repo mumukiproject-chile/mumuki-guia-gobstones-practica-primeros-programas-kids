@@ -1,1 +1,0 @@
-Mirá el tablero esparado para ver como representar la línea blanca :smile:.
