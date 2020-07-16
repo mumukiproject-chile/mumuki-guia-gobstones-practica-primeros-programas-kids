@@ -6,4 +6,4 @@ Vamos a ensuciarnos un poco las manos, ¡haciendo arte! :art:
 
 Empecemos por lo más básico del arte: las líneas. :stuck_out_tongue_winking_eye:
 
-> Dibujá una línea `verde` de 4 casilleros, moviéndote hacia el `Este`. Poné solo una bolita verde en cada casillero. 
+> Dibuja una línea `verde` de 4 casilleros, moviéndote hacia el `Este`. Pon sólo una bolita verde en cada casillero. 
