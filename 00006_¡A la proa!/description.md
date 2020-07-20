@@ -1,6 +1,6 @@
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-primeros-programas-kids/master/assets/toolbox_1553281025747.xml"></gs-toolbox>
 
-Con esta novedosa forma de dibujar :stuck_out_tongue_closed_eyes:, aprenderemos a hacer la bandera de una provincia de Argentina.
+Con esta novedosa forma de dibujar :stuck_out_tongue_closed_eyes:, aprenderemos a hacer una bandera característica de Chile.
 
 Algunas pistas para que adivines de qué provincia hablamos:
 
