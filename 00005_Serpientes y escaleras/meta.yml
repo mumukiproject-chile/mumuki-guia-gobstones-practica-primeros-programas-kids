@@ -1,11 +1,17 @@
 ---
 locale: es
-tags: [ ]
+tags: []
 layout: input_kids
 editor: custom
 type: problem
 extra_visible: false
-teacher_info: Las actividades que siguen están pensadas para afianzar y revisar lo que estuvimos aprendiendo. Sabemos que por momentos pueden volverse repetitivas, por eso recomendamos motivar su resolución. Además, recomendamos retomarlas más adelante y buscar soluciones alternativas más prácticas. Un buen momento puede ser en los próximos dos capítulos, cuando se presente la posibilidad de agrupar las tareas en procedimientos y reunir las repeticiones dentro de un solo bloque. Estos ejercicios demuestran el potencial que nos brindan estas nuevas herramientas.
+teacher_info: Las actividades que siguen están pensadas para afianzar y revisar lo
+  que estuvimos aprendiendo. Sabemos que por momentos pueden volverse repetitivas,
+  por eso recomendamos motivar su resolución. Además, recomendamos retomarlas más
+  adelante y buscar soluciones alternativas más prácticas. Un buen momento puede ser
+  en los próximos dos capítulos, cuando se presente la posibilidad de agrupar las
+  tareas en procedimientos y reunir las repeticiones dentro de un solo bloque. Estos
+  ejercicios demuestran el potencial que nos brindan estas nuevas herramientas.
 manual_evaluation: false
-choices: [ ]
+choices: []
 name: Serpientes y escaleras
