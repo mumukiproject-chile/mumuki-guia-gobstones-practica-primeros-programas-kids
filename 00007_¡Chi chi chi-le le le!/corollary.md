@@ -1,0 +1,1 @@
+¡Y esta también quedó hermosa! :flag_cl: Si bien no es exactamente igual a la original, en programación es común simplificar la realidad para lograr nuestros objetivos. :relaxed:
