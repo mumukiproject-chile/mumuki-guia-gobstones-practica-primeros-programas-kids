@@ -1,3 +1,0 @@
-¡Ufff, qué trabajo! Nos quedó muy linda la bandera :relaxed:, pero el programa... fue un poco largo y complicado :cold_sweat:. Habían dos franjas celestes exactamente iguales y los comandos que usaste para armarlas también son los mismos. :weary:
-
-Con lo que sabemos hasta ahora no podemos hacer mucho más :pensive:. De a poco iremos aprendiendo nuevas herramientas para que esto sea más rápido y el programa quede más simple. :stuck_out_tongue_winking_eye:
