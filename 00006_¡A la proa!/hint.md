@@ -1,1 +1,1 @@
-Mirá el tablero esparado para ver como queda la parte de la estrella. :smile:
+Mira el tablero esparado para ver como queda la parte de la estrella. :smile:
