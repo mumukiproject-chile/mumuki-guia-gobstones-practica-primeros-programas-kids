@@ -1,0 +1,19 @@
+---
+name: Las aventuras de Mukinita
+locale: es
+type: practice
+beta: false
+teacher_info: "Si bien la plataforma cuenta con las definiciones y ejercicios necesarios para una primera aproximación a la programación, podemos aprovechar las actividades que propone para hacer un análisis profundo en el aula que habilite nuevas preguntas y reflexiones colectivas y contribuya a una mejor formalización de los conceptos. \nPodemos hacer nuestra propia versión desenchufada para dibujar con bolitas. Se pueden \"programar\" las instrucciones para lograr un dibujo o dibujar el resultado de un programa dado, intercambiando roles entre quienes programan y quienes hacen de Mukinita. Para pensar:\n\n* ¿Hay una sola forma de \"programar\" este dibujo?\n* ¿Podemos lograr distintos dibujos con el mismo programa?\n* ¿Cuál es el punto de partida de Mukinita? ¿Qué pasa si lo cambiamos?"
+language: gobstones
+id_format: "%05d"
+order:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+private: false

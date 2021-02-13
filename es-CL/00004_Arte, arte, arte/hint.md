@@ -1,0 +1,1 @@
+Fíjate bien en dónde empezar a poner las bolitas y dónde terminar.
